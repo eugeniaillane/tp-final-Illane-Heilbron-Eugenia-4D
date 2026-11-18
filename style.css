@@ -79,3 +79,5 @@ footer p {
     width: 100px;
     margin: 5px;
 }
+
+ol{list-style: number;}
