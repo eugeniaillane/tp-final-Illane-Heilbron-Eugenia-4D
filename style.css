@@ -89,11 +89,12 @@ nav ul {
 }
 
 #fotoflia { 
-    size: 150px;
+    size: 200px;
 }
 
 #pasos {
     font-weight: bold;
+    color: black;
 }
 
 h1 {
@@ -102,4 +103,8 @@ h1 {
 
 #plantilla {
     size: 15px;
+}
+
+#valija {
+    color: black;
 }
