@@ -81,3 +81,7 @@ footer p {
 }
 
 ol{list-style: number;}
+
+nav ul{list-style: none;}
+
+#fotoflia{ size: 150px;}
