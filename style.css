@@ -80,10 +80,18 @@ footer p {
     margin: 5px;
 }
 
-ol{list-style: number;}
+ol {
+    list-style: number;
+}
 
-nav ul{list-style: none;}
+nav ul {
+    list-style: none;
+}
 
-#fotoflia{ size: 150px;}
+#fotoflia { 
+    size: 150px;
+}
 
-#pasos{font-weight: bold;}
+#pasos {
+    font-weight: bold;
+}
