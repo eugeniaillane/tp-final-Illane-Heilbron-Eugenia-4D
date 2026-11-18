@@ -1,12 +1,12 @@
 body {
     background-color: #F8F5EF;
-    color: #17324D;
+    color: #084b16;
     font-family: Arial;
     margin: 0;
 }
 
 header {
-    background-color: #17324D;
+    background-color: #084b16;
     color: white;
     text-align: center;
     padding: 25px;
@@ -14,7 +14,7 @@ header {
 }
 
 nav {
-    background-color: #C47F57;
+    background-color: #e4f88d;
     text-align: center;
     padding: 15px;
 }
@@ -40,12 +40,12 @@ section {
 }
 
 h2 {
-    color: #C47F57;
+    color: #e4f88d;
     font-size: 28px;
 }
 
 h3 {
-    color: #17324D;
+    color: #084b16;
     font-size: 22px;
 }
 
@@ -59,13 +59,13 @@ img {
 }
 
 .boton {
-    background-color: #C47F57;
+    background-color: #e4f88d;
     color: white;
     padding: 10px;
 }
 
 footer {
-    background-color: #17324D;
+    background-color:#084b16;
     color: white;
     text-align: center;
     padding: 20px;
