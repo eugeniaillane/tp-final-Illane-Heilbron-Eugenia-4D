@@ -20,13 +20,10 @@ nav {
     color: #000000;
 }
 
-nav ul{
+nav ul li{
     list-style: none;
     text-align: center;
     display: inline;
-}
-nav ul li{
-    border: black 2px;
 }
 
 .opcion {
