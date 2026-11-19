@@ -26,7 +26,8 @@ nav ul li{
     display: inline;
         size: 15px;
  
-    border: black 2px;
+    border-color: black;
+    border-width: 2PX;
     margin: 10PX;
     padding: 5PX
 
