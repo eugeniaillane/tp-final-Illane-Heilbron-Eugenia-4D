@@ -25,8 +25,11 @@ nav ul li{
     text-align: center;
     display: inline;
         size: 15px;
-    display: inline;
+ 
     border: black 2px;
+    margin: 10PX;
+    padding: 5PX
+
 }
 
 .opcion {
