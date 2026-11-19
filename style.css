@@ -24,6 +24,9 @@ nav ul li{
     list-style: none;
     text-align: center;
     display: inline;
+        size: 15px;
+    display: inline;
+    border: black 2px;
 }
 
 .opcion {
